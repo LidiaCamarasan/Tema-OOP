@@ -1,4 +1,4 @@
-console.log("Exercitiul 1:");
+console.log("Exercitiul 1");
 
 class Masina {
   constructor(marca, model, culoare, kilometraj) {
